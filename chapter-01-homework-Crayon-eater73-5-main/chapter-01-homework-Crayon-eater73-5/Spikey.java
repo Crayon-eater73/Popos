@@ -6,5 +6,6 @@ public class Spikey {
         System.out.println("///\\\\\\");
         System.out.println(" //\\\\");
         System.out.println("  /\\");
+        //It makes spikes 
     }
 }

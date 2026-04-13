@@ -22,3 +22,14 @@ Also, while GitHub does test your code automatically, it is not a replacement fo
 You may alter the expected output if you want to use alterantive lyrics to the twelve days project. 
 
 Be sure to document your source code and update this README. Please contact me if you need assistance.
+
+Troubleshooting—There was always a lot of troubleshooting through this whole thing. My git still won't do the gitcommit, so I've had to manually add it into git. Nothing has ever been too bad, 
+but I had to go thorugh a few hours of trying to get my VM to work and it never did. So I had to use VS code and I recorded myself doing most of this so there isn't anything for AI allegations
+since I wasnt to pass the class.
+
+Spikey—It took a minuite to figure out what to do. but I got the shape eventually.
+MuchBetter—roughly the same, but I mixed a few things up and I couldnt have it look like how I wanted it (when I wanted it to look like \n and "). other than that, it was fine.
+WellFormed—Same issues as MuchBetter.
+StarFigures—Found a way to make it look pretty for code, but I stuck with the system.out.println and \n since it's what I understand.
+
+Just today (4/13/2026) I was able to work on it and solve everything.

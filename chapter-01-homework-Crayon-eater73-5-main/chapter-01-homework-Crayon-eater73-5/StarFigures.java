@@ -22,5 +22,6 @@ public class StarFigures {
         System.out.println(" * * ");
         System.out.println("  *  ");
         System.out.println( " * * ");
+        //It makes a pattern of stars
     }
 }
